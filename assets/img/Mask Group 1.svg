@@ -1,0 +1,17 @@
+<svg width="1442" height="822" viewBox="0 0 1442 822" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_12_2769" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1442" height="822">
+<path d="M0 0H1442V822H0V0Z" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_12_2769)">
+<g filter="url(#filter0_f_12_2769)">
+<ellipse cx="547" cy="-24.5" rx="304" ry="304.5" fill="#00E0FF" fill-opacity="0.36"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_12_2769" x="-57" y="-629" width="1208" height="1209" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="150" result="effect1_foregroundBlur_12_2769"/>
+</filter>
+</defs>
+</svg>
