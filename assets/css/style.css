@@ -185,7 +185,7 @@ section {
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 26px;
   margin-right: 6px;
 }
 
@@ -509,7 +509,7 @@ color: #9BBBB6;
 
 .hero .btn-get-started {
   margin-right: 1rem;
-  margin-top: 3rem;
+  margin-top: 2rem;
   line-height: 0;
   padding: 8px 25px;
   border-radius: 4px;
